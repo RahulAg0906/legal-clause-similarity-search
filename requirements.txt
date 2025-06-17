@@ -1,0 +1,9 @@
+pandas>=1.5.3
+numpy>=1.23.5
+matplotlib>=3.6.2
+scikit-learn>=1.2.2
+sentence-transformers>=2.2.2
+torch>=1.13.1
+tqdm>=4.64.1
+umap-learn>=0.5.3
+ipython>=8.10.0
